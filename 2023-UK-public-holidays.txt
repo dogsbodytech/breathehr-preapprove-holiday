@@ -1,0 +1,9 @@
+2023-01-02|UK Public Holiday: New Year’s Day (substitute day)
+2023-04-07|UK Public Holiday: Good Friday
+2023-04-10|UK Public Holiday: Easter Monday
+2023-05-01|UK Public Holiday: Early May bank holiday
+2023-05-08|UK Public Holiday: Coronation of King Charles III
+2023-05-29|UK Public Holiday: Spring bank holiday
+2023-08-28|UK Public Holiday: Summer bank holiday
+2023-12-25|UK Public Holiday: Christmas Day
+2023-12-26|UK Public Holiday: Boxing Day
