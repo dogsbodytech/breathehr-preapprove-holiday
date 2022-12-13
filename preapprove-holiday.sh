@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Description:  Automatically create and approve holiday for members of staff in BreathHR
+# Description:  Automatically create and approve holiday for members of staff in BreatheHR
 #
 # Usage:  $0 <holiday_file>
 #

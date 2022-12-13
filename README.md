@@ -1,6 +1,6 @@
 # BreatheHR Holiday pre-approval
 
-Automatically create and approve holiday for members of staff in BreathHR.
+Automatically create and approve holiday for members of staff in BreatheHR.
 
 We use this to automatically book off public holidays in the UK as well as bulk importing old holiday data.
 
