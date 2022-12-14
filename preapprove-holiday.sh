@@ -61,12 +61,12 @@ while IFS='|' read -ra LINE; do
 done < "$DATESFILE"
 
 echo
-#read -r -p "Does this look OK? Really?? [y/n] " CHECKOK
-#if [[ "$CHECKOK" =~ ^([yY][eE][sS]|[yY])$ ]]; then
-#  echo
-#else
-#  exit 1
-#fi
+read -r -p "Does this look OK? Really?? [y/n] " CHECKOK
+if [[ "$CHECKOK" =~ ^([yY][eE][sS]|[yY])$ ]]; then
+  echo
+else
+  exit 1
+fi
 
 echo -e "UID\tName\t\tStatus"
 echo -e "===\t====\t\t======"
