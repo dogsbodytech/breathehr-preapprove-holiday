@@ -1,10 +1,10 @@
 # BreatheHR Holiday pre-approval
 
-Automatically create and approve holiday for members of staff in BreatheHR.
+Automatically create '''and approve''' holiday for members of staff in BreatheHR.
 
-We use this to automatically book off public holidays in the UK as well as bulk importing old holiday data.
+We use this to automatically book off public holidays for our staff.
 
-Usage:  `$0 <holiday_file>`
+Usage:  `preapprove-holiday.sh <holiday_file>`
 
 `<holiday_file>`: A pipe delimited file of dates and decriptions in the format...
 ```
@@ -16,4 +16,10 @@ Configuration:  The following variables should be set in a settings.conf file in
 * `PRODUCTION=`    # If set to "TRUE" then the script will use the production API
 * `SAND_API=`      # API Key for the Sandbox enviroment
 * `PROD_API=`      # API Key for the Production enviroment
+
+### Requirements
+Requires `curl`, `date` & `jq`
+
+### Bugs
+* This script breaks at over 100 users :-p
 
