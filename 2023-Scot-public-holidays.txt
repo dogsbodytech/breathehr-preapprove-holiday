@@ -1,0 +1,10 @@
+2023-01-02|Public Holiday in Scotland: New Year’s Day (substitute day)
+2023-01-03|Public Holiday in Scotland: 2nd January (substitute day)
+2023-04-07|Public Holiday in Scotland: Good Friday
+2023-05-01|Public Holiday in Scotland: Early May bank holiday
+2023-05-08|Public Holiday in Scotland: Coronation of King Charles III
+2023-05-29|Public Holiday in Scotland: Spring bank holiday
+2023-08-07|Public Holiday in Scotland: Summer bank holiday
+2023-11-30|Public Holiday in Scotland: St Andrew’s Day
+2023-12-25|Public Holiday in Scotland: Christmas Day
+2023-12-26|Public Holiday in Scotland: Boxing Day
