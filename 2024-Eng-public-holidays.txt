@@ -1,0 +1,8 @@
+2024-01-01|Public Holiday in England: New Year’s Day
+2024-03-29|Public Holiday in England: Good Friday
+2024-04-01|Public Holiday in England: Easter Monday
+2024-05-06|Public Holiday in England: Early May bank holiday
+2024-05-27|Public Holiday in England: Spring bank holiday
+2024-08-26|Public Holiday in England: Summer bank holiday
+2024-12-25|Public Holiday in England: Christmas Day
+2024-12-26|Public Holiday in England: Boxing Day
