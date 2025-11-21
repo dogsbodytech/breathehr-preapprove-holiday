@@ -1,0 +1,8 @@
+2026-01-01|Public Holiday in England: New Year’s Day
+2026-04-03|Public Holiday in England: Good Friday
+2026-04-06|Public Holiday in England: Easter Monday
+2026-05-04|Public Holiday in England: Early May bank holiday
+2026-05-25|Public Holiday in England: Spring bank holiday
+2026-08-31|Public Holiday in England: Summer bank holiday
+2026-12-25|Public Holiday in England: Christmas Day
+2026-12-28|Public Holiday in England: Boxing Day (substitute day)
